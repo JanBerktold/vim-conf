@@ -1,3 +1,6 @@
 [submodule "bundle/vim-golang"]
 	path = bundle/vim-golang
 	url = https://github.com/JanBerktold/vim-golang
+[submodule "bundle/rust-vim"]
+	path = bundle/rust-vim
+	url = https://github.com/rust-lang/rust.vim.git
